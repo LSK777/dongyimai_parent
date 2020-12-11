@@ -1,0 +1,1 @@
+var app = angular.module('dongyimai',['pagination']);  //pagination分页的第三方模块
